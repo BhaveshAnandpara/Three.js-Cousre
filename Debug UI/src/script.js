@@ -14,7 +14,7 @@ const scene = new THREE.Scene()
 
 //Debug
 
-const gui = new dat.GUI({width : 400})
+
 
 
 // const gui = new dat.GUI()
