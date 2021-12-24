@@ -178,7 +178,6 @@ scene.add(camera)
 
 
 const  canvas = document.querySelector('.webgl')
-console.log(canvas)
 
 
 const  renderer = new THREE.WebGLRenderer({
